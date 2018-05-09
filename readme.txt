@@ -5,5 +5,5 @@ Creating a new branch is quick and simple.
 Git branch mrege -no-ff
 Git branch merge --no-ff 2
 Git branch merge --no-ff 3
-Git bug info issue-101
+Git bug info issue-101 and success.
 
