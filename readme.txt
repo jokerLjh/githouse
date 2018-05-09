@@ -6,6 +6,6 @@ Git branch mrege -no-ff
 Git branch merge --no-ff 2
 Git branch merge --no-ff 3
 Git bug info issue-101 and success.
-Git bug info issue-102 and success.
+Git bug info issue-103 and error.
 
 
