@@ -7,4 +7,3 @@ Git branch merge --no-ff 2
 Git branch merge --no-ff 3
 Git bug info issue-101 and success.
 Git bug info issue-103 and error.
-
